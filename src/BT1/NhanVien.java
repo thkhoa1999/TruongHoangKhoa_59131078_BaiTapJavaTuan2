@@ -68,7 +68,7 @@ public class NhanVien {
     }
 
     public String getThongTin() {
-        return "NhanVien{" + "ten=" + ten + ", diaChi=" + diaChi + ", tuoi=" + tuoi + ", tienLuong=" + tienLuong + ", tongSoGioLam=" + tongSoGioLam + '}';
+        return "NhanVien{" + "Họ tên=" + ten + ", Địa chỉ=" + diaChi + ", Tuổi=" + tuoi + ", Tiền Lương=" + tienLuong + ", Tổng số giờ làm=" + tongSoGioLam + '}';
     }
     
     public double TinhThuong(){
